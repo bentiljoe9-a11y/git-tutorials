@@ -1,9 +1,9 @@
-function version6(a,b){
+function version7(a,b){
     return a+b
 }
-version1("Hello, ","World!")
+version7("Hello, ","World!")
 
-function version6(str1, str2){
+function version7(str1, str2){
     return str1 + str2
 }
-version2("people","lord")
+version7("people","lord")
