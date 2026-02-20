@@ -1,10 +1,10 @@
-var version1={
+var version6={
     make: "Toyota",
     model: "Camry",
     year: 2020, 
 }
 
-var version2={
+var version6={
     make: "Honda",
     model: "Civic",
     year: 2021, 
